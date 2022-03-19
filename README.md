@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit8486&color=green" alt="Rohit8486" /> </p>
 
-- 🔭 A full time Wordpress devloper 
+- 🔭 A full time **Wordpress Devloper**
 
 - 🌱 I’m currently pursing **MCA**
 
